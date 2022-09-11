@@ -6,7 +6,7 @@ www.patika.dev
 <h1>
   Hey There 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.linkedin.com/in/talha-akyüzlü-664820187/)" width="100"/>
+  <img src=[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.linkedin.com/in/talha-akyüzlü-664820187/)" width="100/>
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
