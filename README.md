@@ -33,6 +33,3 @@ www.patika.dev
 </div>
 
 ---
-
-### :fire: My Stats :
-
